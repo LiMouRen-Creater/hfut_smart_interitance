@@ -1,0 +1,9 @@
+# Only track the inheritance document and its supporting images.
+/*
+!/.gitignore
+!/README.md
+!/智能车传承.md
+!/传承文件对应说明图片/
+/传承文件对应说明图片/*
+!/传承文件对应说明图片/*.jpg
+!/传承文件对应说明图片/*.png
